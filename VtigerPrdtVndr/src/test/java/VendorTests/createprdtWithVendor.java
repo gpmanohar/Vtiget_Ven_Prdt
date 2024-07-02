@@ -82,7 +82,7 @@ public class createprdtWithVendor {
 		HomePage hp = new HomePage(driver);
 		hp.logoutOfApp(driver);
 		
-		driver.close();
+		driver.quit():
  
 	}
 
